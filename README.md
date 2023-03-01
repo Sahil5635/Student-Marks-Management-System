@@ -16,4 +16,8 @@ JASPER is to be designed to show students how a real, usable program is construc
 
 ![image](https://user-images.githubusercontent.com/95239261/222121944-68eb6dbb-74d5-4b60-bf84-d364f09ff3bb.png)
 
+# Data Flow diagram
+![image](https://user-images.githubusercontent.com/95239261/222122220-e93d8cbc-023e-45af-a8b4-75d3c50e1be2.png)
+# usecase Diagram
+![image](https://user-images.githubusercontent.com/95239261/222122326-b69bc623-afa6-40f7-b745-83e694bee469.png)
 

@@ -14,5 +14,6 @@ So, they need to be automated and centralized as Information from one module wil
  Some of the key selling points of the JSP technology are as follows: the compilation process used produces fast results and output, and allows for more efficient websites, as the embedded code only gets compiled once and then needs mere execution before including the results in the outbound HTML file. JSP puts the static (HTML) and dynamic (mix of HTML, Java, and JSP) content into separate files. Furthermore, JSP applications feature cross-platform compatibility and can run on major web servers and operating systems. 
 JASPER is to be designed to show students how a real, usable program is constructed. As the intended audience for JASPER will consist of second-year computer science students, special emphasis will be placed on a modular structure, straightforward implementation, and thorough documentation. The intended audience for JASPER is students with one year of university-level programming experience. Concerning programming, it is expected that the average user has a solid understanding of object-oriented programming. The users should also be able to program in an object-oriented language, preferably Java
 
+![image](https://user-images.githubusercontent.com/95239261/222121944-68eb6dbb-74d5-4b60-bf84-d364f09ff3bb.png)
 
 

@@ -20,4 +20,36 @@ JASPER is to be designed to show students how a real, usable program is construc
 ![image](https://user-images.githubusercontent.com/95239261/222122220-e93d8cbc-023e-45af-a8b4-75d3c50e1be2.png)
 # usecase Diagram
 ![image](https://user-images.githubusercontent.com/95239261/222122326-b69bc623-afa6-40f7-b745-83e694bee469.png)
+# Project ScreenSorts
+![Screenshot (848)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/cf095ef1-9eb7-4fbe-8e29-47e2e366343b)
+![Screenshot (849)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/f7d41a44-902a-4694-ba4c-1ad298dec01f)
+![Screenshot (850)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/595e6094-0c72-459f-883c-a53ad5011e5f)
+![Screenshot (851)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/e2fed7f6-5b5a-48ec-8a43-e92a416bad8f)
+![Screenshot (852)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/0be9d306-a0cd-425f-91aa-04e9afe8a30e)
+![Screenshot (853)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/b0ad501e-f585-43df-9818-4cc750958d97)
+![Screenshot (854)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/aa9c8b99-2f33-4584-9a5d-91b35ac16637)
+
+![Screenshot (855)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/5038ec57-4f42-4ddb-8f4a-bcdcd29da945)
+
+![Screenshot (856)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/6969d91f-d23a-4c39-93fd-0d9195083733)
+
+![Screenshot (857)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/cd025f85-591f-4ca8-bb87-404cc01a9225)
+
+![Screenshot (858)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/94cde2ec-9d8b-4c96-a970-68ae38ebb235)
+
+
+![Screenshot (859)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/b1d186db-5cee-4d7e-88bd-d593b7b3a761)
+
+![Screenshot (860)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/08db8b02-7342-4f6e-8e22-09f34ec3e4fb)
+
+
+![Screenshot (861)](https://github.com/Sahil5635/Student-Marks-Management-System/assets/95239261/f665b45e-c087-41e0-aee8-84b5ae45ebe1)
+
+
+
+
+
+
+
+
 
